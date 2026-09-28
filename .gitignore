@@ -1,0 +1,7 @@
+BX-*.csv
+book-crossings.zip
+.ipynb_checkpoints/
+__pycache__/
+venv/
+.env
+.DS_Store
